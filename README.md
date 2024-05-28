@@ -1,5 +1,6 @@
 **Boas vindas ao meu perfil!**
-Meu nome é Lucas Emanuel
+
+Meu nome é **Lucas Emanuel**
 
 *Estou estudando no José Maria Whitaker
 
